@@ -1,0 +1,14 @@
+C:\Bootcamp3\C#\ClassroomProjects\Project E Banking\Project E Banking\obj\Debug\Project E Banking.csprojResolveAssemblyReference.cache
+C:\Bootcamp3\C#\ClassroomProjects\Project E Banking\Project E Banking\obj\Debug\Project E Banking.csproj.CoreCompileInputs.cache
+C:\Bootcamp3\C#\ClassroomProjects\Project E Banking\Project E Banking\bin\Debug\Project E Banking.exe.config
+C:\Bootcamp3\C#\ClassroomProjects\Project E Banking\Project E Banking\bin\Debug\Project E Banking.exe
+C:\Bootcamp3\C#\ClassroomProjects\Project E Banking\Project E Banking\bin\Debug\Project E Banking.pdb
+C:\Bootcamp3\C#\ClassroomProjects\Project E Banking\Project E Banking\obj\Debug\Project E Banking.exe
+C:\Bootcamp3\C#\ClassroomProjects\Project E Banking\Project E Banking\obj\Debug\Project E Banking.pdb
+C:\Bootcamp3\C#\C# Projects\Project E Banking\Project E Banking\bin\Debug\Project E Banking.exe.config
+C:\Bootcamp3\C#\C# Projects\Project E Banking\Project E Banking\bin\Debug\Project E Banking.exe
+C:\Bootcamp3\C#\C# Projects\Project E Banking\Project E Banking\bin\Debug\Project E Banking.pdb
+C:\Bootcamp3\C#\C# Projects\Project E Banking\Project E Banking\obj\Debug\Project E Banking.csprojResolveAssemblyReference.cache
+C:\Bootcamp3\C#\C# Projects\Project E Banking\Project E Banking\obj\Debug\Project E Banking.csproj.CoreCompileInputs.cache
+C:\Bootcamp3\C#\C# Projects\Project E Banking\Project E Banking\obj\Debug\Project E Banking.exe
+C:\Bootcamp3\C#\C# Projects\Project E Banking\Project E Banking\obj\Debug\Project E Banking.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="afdempDB">
+  <DataContextMoniker Name="/afdempDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="584da1ba-d2b8-4717-a070-a7c934ca051f" absoluteBounds="5.125, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/afdempDBDataContext/account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f80cee73-1df2-460c-bdd9-7e783f2e730e" absoluteBounds="5.14, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6806ba03-190c-4032-b6be-18a7deb63e2a" absoluteBounds="1.25, 1.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/afdempDBDataContext/user" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3c37564c-c997-4114-8488-e4704e4cb521" absoluteBounds="1.2650000000000001, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.25 : 2.7612939453125); (2.25 : 4.53929768880208); (5.125 : 4.53929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/afdempDBDataContext/user/user_account" />
+      <nodes>
+        <classShapeMoniker Id="6806ba03-190c-4032-b6be-18a7deb63e2a" />
+        <classShapeMoniker Id="584da1ba-d2b8-4717-a070-a7c934ca051f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
